@@ -35,6 +35,6 @@ script:
   - houston ci
     --type system-app
     --name-appstream io.elementary.terminal.desktop
-    --name-domain io.elementary.terminal
+    --name-domain pantheon-terminal
     --name-human Terminal
     --distribution $DIST
